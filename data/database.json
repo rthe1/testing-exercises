@@ -74,6 +74,19 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "fL3Dst73Y",
+      "uuid": "294f3c42-4f2b-4938-87f0-37488156f0d5",
+      "firstName": "Reshawn",
+      "lastName": "Hamilton",
+      "username": "reshawnTEST@gmail.com",
+      "password": "$2a$10$V8RU0b9ZT4huA9IFw6BVi.MdsNN/hhSlw9CAmJOMxHern5XXUpP3K",
+      "email": "reshawnTEST@gmail.com",
+      "phoneNumber": "9058671151",
+      "balance": 0,
+      "createdAt": "2022-11-13T03:59:33.746Z",
+      "modifiedAt": "2022-11-13T03:59:33.746Z"
     }
   ],
   "contacts": [
@@ -253,6 +266,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "olRNA3I85",
+      "uuid": "42ae9a24-0a94-4336-b147-2eee1b99dfe7",
+      "userId": "fL3Dst73Y",
+      "bankName": "Reshawn Bank",
+      "accountNumber": "123456789",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2022-11-13T04:00:19.192Z",
+      "modifiedAt": "2022-11-13T04:00:19.192Z"
     }
   ],
   "transactions": [
